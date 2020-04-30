@@ -11,3 +11,5 @@ Sound     Realtek® ALC1150
 ITE® I / O Controller
 
 The system works fine, tested in MacOS 10.13.6 - 10.15.4, implemented on the bootloader clover, sound, Internet, video, usb, work!
+
+The system will work with other processors!
